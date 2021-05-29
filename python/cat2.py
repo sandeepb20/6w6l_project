@@ -1,4 +1,4 @@
-#The following command will copy the contents of file1.txt to file2.txt using the (>) operator :
+#The following command will copy the contents of input_file to output.txt(if not create a new)  :
 
 import argparse
 import os
