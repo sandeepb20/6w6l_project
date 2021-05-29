@@ -1,6 +1,9 @@
 # PYTHON
 
 Here are some python scripts for implementing [command line interfaces ,with argparse](https://realpython.com/command-line-interfaces-python-argparse/). 
+[Official Doc. (argparse)](https://docs.python.org/3/library/argparse.html)
+[Source code (argparse)](https://github.com/python/cpython/blob/3.9/Lib/argparse.py)
+
 ### 1) [cat](https://linuxize.com/post/linux-cat-command/) 
 The name of the _cat_ command comes from its functionality to concatenate files. It can read, concatenate, and write file contents to the standard output.
 * (i) [cat1.py](https://github.com/sandeepb20/6w6l_project/blob/main/python/cat1.py):This script will display the contents of the path file on the terminal.
