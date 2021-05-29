@@ -1,7 +1,9 @@
 # PYTHON
 
 Here are some python scripts for implementing [command line interfaces ,with argparse](https://realpython.com/command-line-interfaces-python-argparse/). 
+
 [Official Doc. (argparse)](https://docs.python.org/3/library/argparse.html)
+
 [Source code (argparse)](https://github.com/python/cpython/blob/3.9/Lib/argparse.py)
 
 ### 1) [cat](https://linuxize.com/post/linux-cat-command/) 
