@@ -13,7 +13,8 @@ my_persor.add_argument('-v',action='store_true',help='display lines that do not 
 args=my_persor.parse_args()
 
 print(vars(args))
-
+if not args.path:
+    path=os.pwd
 
 with open(args.path,'r') as input_file:
 
