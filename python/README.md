@@ -18,3 +18,4 @@ _Find_ searches for files and directories in a directory hierarchy based on a us
 ### 3) [grep](https://linuxize.com/post/how-to-use-grep-command-to-search-files-in-linux/)
 The _grep_ command stands for “global regular expression print”.
 _grep_ searches one or more input files for lines that match a given pattern and writes each matching 
+* (i) This can be used to display the lines containing given string.here **-path** is used to provide path to file .**-case** is used to search case sensitive else it will search case insensitive.**-v** is used to display the lines that do not match a pattern.**-n** can be used to print no of searches found
