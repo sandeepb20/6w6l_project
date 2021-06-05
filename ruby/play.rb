@@ -1,6 +1,6 @@
 require "./display.rb"
 require "./validate.rb"
-$board=[0,1,2,3,4,5,6,7,8]
+$board=[1,2,3,4,5,6,7,8,9]
 $count=0
 i=1
 
@@ -13,10 +13,10 @@ while true
     
     if ($count)%2==1
         puts "This is turn of player 2.Please Enter a Number"
-        index=gets.chomp.to_i
+        index=gets.chomp.to_i-1
 
         if My_class.move(index)==1
-            $board[index]="Y"
+            $board[index]="O"
             $count+=1
             DisplayBoard.display_board($board)
         else
@@ -24,7 +24,7 @@ while true
         end
     else
         puts "This is turn of player 1.Please Enter a Number"
-        index=gets.chomp.to_i
+        index=gets.chomp.to_i-1
        
 
         if My_class.move(index)==1
@@ -51,4 +51,4 @@ while true
     end
 end
 
-puts " DONE"
+puts " ___________DONE_________________"

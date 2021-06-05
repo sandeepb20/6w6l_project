@@ -12,7 +12,7 @@ class Validate
     def move(index)
         index.to_i
       
-        if $board[index]=="X" || $board[index]=="Y"
+        if $board[index]=="X" || $board[index]=="O"
             return 0
         end
 
@@ -30,7 +30,7 @@ class Validate
                 if $board[c1]=="X"
                     return 1
                 end
-                if $board[c1]=="Y"
+                if $board[c1]=="O"
                     return 2
                 end
             end
@@ -41,7 +41,7 @@ class Validate
     def draw()
         @@res=0
         $board.each do |i|
-            if i=="X" || i=="Y"
+            if i=="X" || i=="O"
                 @@res+=1
             end
         end
