@@ -29,13 +29,13 @@ Languages can be classified into many, many models.
 ### 3) Type System
 
 In programming languages, a type system is a logical system comprising a set of rules that assigns a property called a type to the various constructs of a computer program, such as variables, expressions, functions or modules.
-- A. Strong vs Weak typing:
-- B. Static vs Dynamic 1 typing:
-- C. Manifest vs Inferred:
-- D. Nominal vs Structural:
-- E. Duck Typing:
+- ***A. Strong vs Weak typing:***
+- ***B. Static vs Dynamic 1 typing:***
+- ***C. Manifest vs Inferred:***
+- ***D. Nominal vs Structural:***
+- ***E. Duck Typing:***
 ******************************************
-## This project comprises of six major languages:
+## This project comprises of following six major languages:
 
 ### *Python*
 ### *JavaScript*
