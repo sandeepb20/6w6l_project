@@ -37,9 +37,9 @@ In programming languages, a type system is a logical system comprising a set of 
 ******************************************
 ## This project comprises of following six major languages:
 
-### *Python*
-### *JavaScript*
-### *Ruby*
+### [*Python*](https://github.com/sandeepb20/6w6l_project/tree/main/python)
+### [*JavaScript*](https://github.com/sandeepb20/6w6l_project/tree/main/js)
+### [*Ruby*](https://github.com/sandeepb20/6w6l_project/tree/main/ruby)
 ### *Scala*
 ### *Julia* 
 ### *Go*
