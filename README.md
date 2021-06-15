@@ -13,8 +13,9 @@ This is a quick overview of ***Fundamentals of Programming Languages*** :
 
 ### 1) Programming Paradigms
    Paradigm  is basically a method/approach to solve a problem using tools and techniques.There are lots for programming language that are known but all of them need to follow some strategy when they are implemented and this methodology/strategy is paradigms.From a wider aspect,this includes the
-    - ***Imperative paradigms***
-    - ***Declarative paradigms***
+   
+- ***Imperative paradigms*** 
+- ***Declarative paradigms***
 
 ### 2) Programming Models
 
