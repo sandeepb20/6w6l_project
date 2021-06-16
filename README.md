@@ -29,21 +29,21 @@ Programming Models :- Programming Model is a set of concepts used to create soft
 The programming model acts as a bridge between algorithms and actual implementations. Languages can be classified into many, many models.
 
 
-- ***Procedural Oriented*** : The program in which code is written in step wise procedure mainly in the form of sub-functions is Procedural Oriented.This is derived from structured programming.For example C language.
+- <ins>***Procedural Oriented***</ins> : The program in which code is written in step wise procedure mainly in the form of sub-functions is Procedural Oriented.This is derived from structured programming.For example C language.
 
-- ***Purely Object Oriented*** : Languages in which everything is treated consistently as an object, from primitives such as characters and integers, all the way up to whole classes, blocks, modules,etc.Ruby is one such language.
-- ***Purely Functional*** :  Languages in which programs are constructed by applying and composing functions.Here, functions also do not have any side-effects in other words no function can alter the internal state of some variable.Haskell is one such language.
+- <ins>***Purely Object Oriented***</ins> : Languages in which everything is treated consistently as an object, from primitives such as characters and integers, all the way up to whole classes, blocks, modules,etc.Ruby is one such language.
+- <ins>***Purely Functional***</ins> :  Languages in which programs are constructed by applying and composing functions.Here, functions also do not have any side-effects in other words no function can alter the internal state of some variable.Haskell is one such language.
 
-- ***Logic Programming*** : Languages in which a program is written as a set of sentences in logical form.For these, PROLOG(programming in logic) is the best known example. Here, a program is executed by an “inference engine” that answers a query by searching these relations systematically to make inferences that will answer a query.
+- <ins>***Logic Programming***</ins> : Languages in which a program is written as a set of sentences in logical form.For these, PROLOG(programming in logic) is the best known example. Here, a program is executed by an “inference engine” that answers a query by searching these relations systematically to make inferences that will answer a query.
 
 ### 3) Type System
 
 In programming languages, a type system is a logical system comprising a set of rules that assigns a property called a type to the various constructs of a computer program, such as variables, expressions, functions or modules.
-- ***A. Strong vs Weak typing:***
-- ***B. Static vs Dynamic 1 typing:***
-- ***C. Manifest vs Inferred:***
-- ***D. Nominal vs Structural:***
-- ***E. Duck Typing:***
+- <ins>***A. Strong vs Weak typing:***</ins>
+- <ins>***B. Static vs Dynamic 1 typing:***</ins>
+- <ins>***C. Manifest vs Inferred:***</ins>
+- <ins>***D. Nominal vs Structural:***</ins>
+- <ins>***E. Duck Typing:***</ins>
 ******************************************
 ## This project comprises of following six major languages:
 
