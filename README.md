@@ -21,8 +21,8 @@ Classification of programming languages on the basis of -
 
 ### 1) Programming Paradigms
 Programming Paradigm is a style, technique, or way of writing a program to solve a problem.There are two primary programming paradigms:-
-- <ins>Imperative</ins>:- Imperative programming is the oldest programming paradigm.Programs in which we need to clearly define the sequence of instructions for the  computer are imperative.
-- Declarative:- In the declarative programming paradigm, we simply tell the problem to the computer and let the computer decide what action to take. In other words, we just need to express the logic of the computation without talking about its control flow.
+- <ins> ***Imperative*** </ins>:- Imperative programming is the oldest programming paradigm.Programs in which we need to clearly define the sequence of instructions for the  computer are imperative.
+- ***<ins>Declarative</ins>***:- In the declarative programming paradigm, we simply tell the problem to the computer and let the computer decide what action to take. In other words, we just need to express the logic of the computation without talking about its control flow.
 
 ### 2) Programming Models
 Programming Models :- Programming Model is a set of concepts used to create software, which are mainly used to guide the development of programming languages.
