@@ -4,7 +4,7 @@
 - [Som Tambe](https://github.com/SomTambe)
 - [Atharv Singh Patlan](https://github.com/AthaSSiN)
 - 
-This is a summer project project on getting insights into various programming languages and understanding the different paradigms of programming.
+This is a summer project on getting insights into various programming languages and understanding the different paradigms of programming.
 
 *****************************
 ## *General Concepts*
