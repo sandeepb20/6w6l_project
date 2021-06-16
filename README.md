@@ -9,7 +9,7 @@ This is a summer project on getting insights into various programming languages 
 *****************************
 ## *General Concepts*
 
-This is a quick overview of ***Fundamentals of Programming Languages*** :
+### This is a quick overview of ***Fundamentals of Programming Languages*** :
 Similar to human interface languages, which have their own set of rules that have to be followed in order to write correctly in that language, programming languages ​​also follow certain rules.<br>
 
 Classification of programming languages on the basis of -
@@ -21,7 +21,7 @@ Classification of programming languages on the basis of -
 
 ### 1) Programming Paradigms
 Programming Paradigm is a style, technique, or way of writing a program to solve a problem.There are two primary programming paradigms:-
-- Imperative:- Imperative programming is the oldest programming paradigm.Programs in which we need to clearly define the sequence of instructions for the  computer are imperative.
+- <u>Imperative</u>:- Imperative programming is the oldest programming paradigm.Programs in which we need to clearly define the sequence of instructions for the  computer are imperative.
 - Declarative:- In the declarative programming paradigm, we simply tell the problem to the computer and let the computer decide what action to take. In other words, we just need to express the logic of the computation without talking about its control flow.
 
 ### 2) Programming Models
