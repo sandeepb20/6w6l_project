@@ -9,13 +9,13 @@ This is a summer project on getting insights into various programming languages 
 *****************************
 ## *General Concepts*
 
-### This is a quick overview of ***Fundamentals of Programming Languages*** :
+### Here is a quick overview on ***Fundamentals of Programming Languages*** :
 Similar to human interface languages, which have their own set of rules that have to be followed in order to write correctly in that language, programming languages ​​also follow certain rules.<br>
 
 Classification of programming languages on the basis of -
-* Programming Paradigms
-* Programming Models
-* Type System
+* ***Programming Paradigms***
+* ***Programming Models***
+* ***Type System***
 
 
 
