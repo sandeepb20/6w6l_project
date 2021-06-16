@@ -39,11 +39,11 @@ The programming model acts as a bridge between algorithms and actual implementat
 ### 3) Type System
 
 In programming languages, a type system is a logical system comprising a set of rules that assigns a property called a type to the various constructs of a computer program, such as variables, expressions, functions or modules.
-- <ins>***A. Strong vs Weak typing:***</ins>
-- <ins>***B. Static vs Dynamic 1 typing:***</ins>
-- <ins>***C. Manifest vs Inferred:***</ins>
-- <ins>***D. Nominal vs Structural:***</ins>
-- <ins>***E. Duck Typing:***</ins>
+- ***A.<ins> Strong vs Weak typing***</ins>:
+- ***B.<ins> Static vs Dynamic 1 typing***</ins>:
+- ***C.<ins> Manifest vs Inferred***</ins>:
+- ***D.<ins> Nominal vs Structural***</ins>:
+- ***E. <ins>Duck Typing***</ins>:
 ******************************************
 ## This project comprises of following six major languages:
 
