@@ -14,3 +14,8 @@ complex64 complex128 <br>
 Constants are declared with the const keyword and can be char,str,bool or num.<br>
 Constants cannot be declared using the := syntax. 
 
+#### Defer
+If a defer statement is used before a function then that function is executed after all surrounding functions.Deferred function calls are pushed onto a stack.When a function returns,its deferred calls are executed in last-in-first-out order.
+#### Slices
+Array cannot be resized because array's length is part of its type, so slice is used to overcome this limitation.(var s []int = array[1:4])<br>
+Changing the elements of a slice modifies the corresponding elements of its underlying array.Slices can be created with the built-in make function;
