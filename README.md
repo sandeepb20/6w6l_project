@@ -50,9 +50,9 @@ In programming languages, a type system is a logical system comprising a set of 
 ### [*Python*](https://github.com/sandeepb20/6w6l_project/tree/main/python)
 ### [*JavaScript*](https://github.com/sandeepb20/6w6l_project/tree/main/js)
 ### [*Ruby*](https://github.com/sandeepb20/6w6l_project/tree/main/ruby)
+### [*Go*](https://github.com/sandeepb20/6w6l_project/tree/main/go)
 ### *Scala*
 ### *Julia* 
-### *Go*
 
 ***More Info about above languages and tasks can be found in respective folders.***
 
