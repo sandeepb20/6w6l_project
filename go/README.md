@@ -6,4 +6,5 @@ This week we'll be getting to know the basics of Go and how to work with it.
 [This](https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go) is a nice blog to learn about interfaces.
 
 ###### Above files are exercises from Tour of Go
-- ***sqrt.go*** :-This is a program to calculate square root of a number  with functions and loops. Using formula z -= (z*z - x) / (2*z)
+- [***sqrt.go***](https://github.com/sandeepb20/6w6l_project/blob/main/go/sqrt.go) :-This is a program to calculate square root of a number  with functions and loops. Using formula z -= (z*z - x) / (2*z)
+- [***slice.go***](https://github.com/sandeepb20/6w6l_project/blob/main/go/slices.go) :- This is a program to display a pic using [][]uint8 slice.This pics have been generated(x^y,x+y,x*y).
