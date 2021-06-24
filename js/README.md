@@ -9,3 +9,4 @@ This week we'll cover JavaScript (functional programming) and a bit of fundament
 * [Resource](https://www.w3schools.com/java/default.asp)
 * [Alternative resource](https://www.tutorialspoint.com/java/index.htm)
 
+## Functional Programming
