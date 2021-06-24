@@ -19,3 +19,9 @@ If a defer statement is used before a function then that function is executed af
 #### Slices
 Array cannot be resized because array's length is part of its type, so slice is used to overcome this limitation.(var s []int = array[1:4])<br>
 Changing the elements of a slice modifies the corresponding elements of its underlying array.Slices can be created with the built-in make function;
+
+#### MAPS
+A map maps keys to values. Test that a key is present with a two-value assignment:(elem, ok = m[key])
+
+#### Function values
+Functions are values too. They can be passed around just like other values.***Function closures*** A closure is a function value that references variables from outside its body. The function may access and assign to the referenced variables; in this sense the function is "bound" to the variables.
