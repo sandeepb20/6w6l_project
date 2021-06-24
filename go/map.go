@@ -1,26 +1,27 @@
 package main
 
 import (
-	"fmt"
 	"strings"
+
+	"golang.org/x/tour/wc"
 )
 
-func main() {
-	s := " hi "
-
-	var sl []string = strings.Fields(s)
-
+func WordCount(s string) map[string]int {
 	m := make(map[string]int)
-
+	var sl []string = strings.Fields(s)
 	for i := 0; i < len(sl); i++ {
 		word := sl[i]
 		elem, ok := m[word]
 		if ok == true {
-			m[word] += 1
+			m[word] = elem + 1
 		} else {
 			m[word] = 1
 		}
 	}
 
-	fmt.Println(m)
+	return m
+}
+
+func main() {
+	wc.Test(WordCount)
 }
