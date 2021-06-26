@@ -10,3 +10,4 @@ This week we'll be getting to know the basics of Go and how to work with it.
 - [***slice.go***](https://github.com/sandeepb20/6w6l_project/blob/main/go/slices.go) :- This is a program to display a pic using [][]uint8 slice.This pics have been generated using following functions(x^y,x+y,x*y) .
 - [***map.go***](https://github.com/sandeepb20/6w6l_project/blob/main/go/map.go) :- It return a map of the counts of each “word” in the string s.
 - [***Fibonacci***](https://github.com/sandeepb20/6w6l_project/blob/main/go/Fibonacci_closure.go) :- Implement a fibonacci function that returns a function (a closure) that returns successive fibonacci numbers.
+- [***stringers.go***](https://github.com/sandeepb20/6w6l_project/blob/main/go/stringers.go) :-  Make the IPAddr type implement fmt.Stringer to print the address as a dotted quad.For instance, IPAddr{1, 2, 3, 4} should print as "1.2.3.4". 
