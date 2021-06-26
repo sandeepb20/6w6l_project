@@ -2,25 +2,21 @@ package main
 
 import (
 	"fmt"
-	"strings"
 )
 
-func main() {
-	s := " hi "
+func Sqrt(x float64) float64 {
+	var z float64 = 1
+	for i := 0; i < 10; i++ {
+		fmt.Printf("\nValue of z after %v iteration is %v", i, z)
 
-	var sl []string = strings.Fields(s)
+		z = z - (z*z-x)/(2*z)
 
-	m := make(map[string]int)
-
-	for i := 0; i < len(sl); i++ {
-		word := sl[i]
-		elem, ok := m[word]
-		if ok == true {
-			m[word] += 1
-		} else {
-			m[word] = 1
-		}
 	}
+	return z
+}
 
-	fmt.Println(m)
+func main() {
+	z := Sqrt(10)
+	fmt.Println("\nFinal Ans is")
+	fmt.Println(z)
 }
