@@ -25,3 +25,6 @@ A map maps keys to values. Test that a key is present with a two-value assignmen
 
 #### Function values
 Functions are values too. They can be passed around just like other values.***Function closures*** A closure is a function value that references variables from outside its body. The function may access and assign to the referenced variables; in this sense the function is "bound" to the variables.
+
+#### Interfaces 
+[This](https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go) blog explain interfaces very well.
