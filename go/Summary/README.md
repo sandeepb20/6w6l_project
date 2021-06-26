@@ -28,3 +28,9 @@ Functions are values too. They can be passed around just like other values.***Fu
 
 #### Interfaces 
 [This](https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go) blog explain interfaces very well.
+
+#### Errors
+In Go errors are expressed as error values.The error type is a built-in interface similar to fmt.Stringer.
+
+#### Readers
+Import "io" package which specifies the io.Reader interface, which represents the read end of a stream of data. 
