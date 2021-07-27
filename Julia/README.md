@@ -1,6 +1,8 @@
 ## Julia
 Julia is a fairly new language. 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fmotius-de%2Fcan-julia-rival-python-for-king-of-data-science-c307f6f6d216&psig=AOvVaw0bug7HxU8iorsl-nMelboi&ust=1627440022417000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMCLlfOcgvICFQAAAAAdAAAAABAD)
+
+
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fmotius-de%2Fcan-julia-rival-python-for-king-of-data-science-c307f6f6d216&psig=AOvVaw0bug7HxU8iorsl-nMelboi&ust=1627440022417000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMCLlfOcgvICFQAAAAAdAAAAABAD?raw=true)
 It is similar (better) to (than) Python, in the way that it is also an interpreted language. 
 As you know Python is slow. Julia is not, as Julia's speed is comparable to that statically compiled code of C.
 Julia has immense meta programming capabilities, parallelism capabilities, and many more cool things that you will find out. 
