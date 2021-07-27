@@ -14,4 +14,4 @@ This week we'll cover JavaScript (functional programming) and a bit of fundament
 It was presented at JSConf by Anjana Vakil.
 ● From through [this](https://github.com/sandeepb20/Functional-Light-JS) book on FP with JS we were to implement all the exercises.
 
-I also implemented javascript to make my personal discord bot.
+I also implemented javascript to make my personal ***discord bot.*** Click [here](https://github.com/sandeepb20/6w6l_project/tree/main/js/discord-bot) for more details.
