@@ -10,3 +10,8 @@ This week we'll cover JavaScript (functional programming) and a bit of fundament
 * [Alternative resource](https://www.tutorialspoint.com/java/index.htm)
 
 ## Functional Programming
+[This](https://www.youtube.com/watch?v=e-5obm1G_FY) video is a really nice intro for functional programming with JavaScript.
+It was presented at JSConf by Anjana Vakil.
+● From through [this](https://github.com/sandeepb20/Functional-Light-JS) book on FP with JS we were to implement all the exercises.
+
+I also implemented javascript to make my personal discord bot.
