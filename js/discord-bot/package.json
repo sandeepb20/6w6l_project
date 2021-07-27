@@ -1,0 +1,28 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Designing a Discord Bot from scratch",
+  "main": "cool.js",
+  "scripts": {
+    "start": "node cool.js",
+    "devStart" : "nodemon cool.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepb20/bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepb20/bot/issues"
+  },
+  "homepage": "https://github.com/sandeepb20/bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
