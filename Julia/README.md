@@ -1,7 +1,7 @@
 ## Julia
 Julia is a fairly new language. 
 
-![alt text](https://github.com/sandeepb20/6w6l_project/blob/main/Julia/images/1.jpg?raw=true)
+![alt text](https://github.com/sandeepb20/6w6l_project/blob/main/Julia/images/1.jpg=250x250)
 
 It is similar (better) to (than) Python, in the way that it is also an interpreted language. 
 As you know Python is slow. Julia is not, as Julia's speed is comparable to that statically compiled code of C.
